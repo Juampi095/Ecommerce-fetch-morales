@@ -1,0 +1,15 @@
+.tituloH1 {
+    color: white;
+    text-align: center;
+}
+
+.form-control {
+    margin: .5rem;
+    width: 50%;
+}
+
+.btn3 {
+    color: white;
+    background-color: cornflowerblue;
+    border-color: white;
+}

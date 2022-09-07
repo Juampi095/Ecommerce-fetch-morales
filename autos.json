@@ -1,0 +1,25 @@
+{
+    "autos": [{
+            "marca": "Pagani",
+            "modelo": "Huayra",
+            "año": "2021",
+            "precio": 11499
+        
+        },
+        {
+            "marca": "Ferrari",
+            "modelo": "488 GT3",
+            "año": "2019",
+            "precio": 18999
+        
+        },
+        {
+            "marca": "Bugatti",
+            "modelo": "Divo",
+            "año": "2022",
+            "precio": 19990
+        
+        }
+        
+    ]
+}
